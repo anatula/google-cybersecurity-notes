@@ -63,5 +63,17 @@ Open Source Combinations
 - Full observability + security stack: Prometheus (metrics) + Loki (logs) + Grafana (UI) + Snort (IDS)
 
 ## 2. The evolution of cybersecurity module
+
+Brain virus, 1986, Alvi brother created it, track illegal copies of medical software and prevent pirated licences. Use a pirated, infected, any disk infected, it spread globally. The virus slow down productivity and business operations.
+
+Morris worm: 1988, Morris developed a program to asses the size of the internet, the program crawled the web and installed itself on to other computers. The program failed to keep track and continue to re-install itself until computer ran out of memory. Caused millions of dollars. CERT Computer Emergency Response Team establish to respond to computer security incidents (exists today).
+
+Malware could spread through the internet, without physical disk to spread virus. 
+
+Love letter attack: 2000 malware, to steal internet logging credentials. attachment was open, malware scan the person's address book and send it self to them. Infected 45 million computer and millions in damages. Social engineering
+
+Equifax breach: 2017, largest data breahes. Customer records stolen, PII, driver licens, credit cards, etc. Financial consequences.
+
+
 ## 3. Protect agains threats, risks and vulnerabilities module
 ## 4. Cybersecurity tools and programming languages module
